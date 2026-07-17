@@ -67,12 +67,6 @@ terraform destroy
 
 ---
 
-## Screenshots
-
-(Add screenshots here)
-
----
-
 ## Author
 
 Vishwanath Vishwakarma
